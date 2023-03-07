@@ -101,7 +101,7 @@
 
 <script>
     //#region modal control
-    let url = "/training/M2/Account_Info/";
+    let url = "/M2/Account_Info/";
 
     $(".modal_btn").on('click', function() {
         $('#_method').val($(this).data('method'));
